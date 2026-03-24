@@ -5,10 +5,10 @@
     <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,fastapi,python,postgresql,docker,git" />
   </a>
 </p>
-## FE: Tailwind, TypeScript, React
-## BE: FastAPI, Pydantic, SQLAlchemy
-## **Other tools:**
-## Docker, Git, PostgreSQL, Vercel / Render, etc.
+ FE: Tailwind, TypeScript, React
+ BE: FastAPI, Pydantic, SQLAlchemy
+ **Other tools:**
+ Docker, Git, PostgreSQL, Vercel / Render, etc.
 <!--
 **DarkRaike/DarkRaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
