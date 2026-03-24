@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## I'm wordking with 
+## FE: Tailwind, TypeScript, React
+## BE: FastAPI, Pydantic, SQLAlchemy
 <!--
 **DarkRaike/DarkRaike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
