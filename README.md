@@ -6,9 +6,9 @@
   </a>
 </p>
 
- FE: Tailwind, TypeScript, React
+ **FE**: Tailwind, TypeScript, React
  <br>
- BE: FastAPI, Pydantic, SQLAlchemy
+ **BE**: FastAPI, Pydantic, SQLAlchemy
   <br>
  **Other tools:**
   <br>
