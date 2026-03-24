@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm wordking with 
+## I'm work with 
 ## FE: Tailwind, TypeScript, React
 ## BE: FastAPI, Pydantic, SQLAlchemy
 <!--
